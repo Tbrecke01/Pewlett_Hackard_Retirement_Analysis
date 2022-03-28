@@ -6,10 +6,10 @@ The purpose of this project was to do a database analysis of employees at Pewlet
 The primary means of identification for employees is birth date, with retirees determined as individuals born between 1952-1955, and mentorship employees those born in 1965.
 
 ### Results
-<retirement titles pic>
+![retirement_titles](https://github.com/Tbrecke01/Pewlett_Hackard_Retirement_Analysis/blob/main/retirement_titles.png)
 - There are 72,458 individuals who are likely to retire soon
 - Of the individuals retiring, most are in Senior Engineers (~36%) or Senior Staff (~33%) roles
-<insert mentor table>
+![Mentorship_eligibility](https://github.com/Tbrecke01/Pewlett_Hackard_Retirement_Analysis/blob/main/Mentorship_eligibility.jpg)
 - There are currently 1549 candidates who fit the mentorship eligibility criteria
 - Of those eligible, roughly half (773 of 1549, or 49.9%) currently have Senior or Leader roles
 
